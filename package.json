@@ -1,0 +1,22 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "openzeppelin-solidity": "^4.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-bignumber": "^3.0.0"
+  }
+}
